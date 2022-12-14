@@ -1,3 +1,5 @@
 grafana
 prometheus
 newrelic
+appdynamic
+dynatrace
