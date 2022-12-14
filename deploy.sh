@@ -4,4 +4,4 @@ deployment5 master
 deploy java application
 deploy python apps
 deploy in the dev environment
-
+deploy to staging
